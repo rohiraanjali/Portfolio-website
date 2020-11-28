@@ -167,7 +167,16 @@ a {
 .logo {
   padding: 2rem;
   text-align: center;
+  padding: 2rem;
+  padding-top: 5rem;
 }
+
+.logo .logo-img {
+  max-width: 350px;
+  display: block;
+  margin: auto;
+}
+
 mark {
   background-color: lightgreen;
   color: rgb(54, 37, 37);
